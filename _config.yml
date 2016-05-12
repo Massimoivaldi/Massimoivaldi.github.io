@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Massimoivaldi.github.io
+title: MarketingMix.tf
+email: info@marketingmix.tf
+author: Massimoivaldi
+description: Digital Marketing per piccole aziende.<br />Nuovi strumenti, nuovi mercati, nuovi clienti.
+paginate: 3
+google_analytics: 
